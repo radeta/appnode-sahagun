@@ -1,0 +1,22 @@
+{
+  "name": "ramiroapp",
+  "version": "0.0.1",
+  "description": "This example app.",
+  "scripts": {
+    "start": "node ramiroapp"
+  },
+
+ "author": "ramiro deavila ramirodeavilahotmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radeta/ramiro.git"
+  },
+
+  "dependencies": {
+    "express": "3.3.5",
+    "jade": "*",
+    "soap":"*"
+  }
+}
+
+
